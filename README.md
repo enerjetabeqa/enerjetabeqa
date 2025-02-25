@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Enerjeta Beqa!
+## Hey there 👋 I'm Enerjeta Beqa!
 
 ### Glad to see you here!  
 I'm an insightful and solutions-oriented data enthusiast, turning complex data into actionable insights. I'm passionate about using data to drive business strategy and identify opportunities for growth and improvement.
